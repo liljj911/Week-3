@@ -10,8 +10,8 @@ void main()
 	cout << "Hello GitHub" << endl;
 
 	system("pause");
-
 	return;
+
 
 }
 
